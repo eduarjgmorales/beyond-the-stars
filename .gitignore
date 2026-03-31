@@ -1,4 +1,12 @@
-# Godot 4+ specific ignores
-.godot/
-/android/
-*.tmp
+# --- Godot 4+ Engine Settings ---
+.godot/                 # Internal engine cache, import data, and project metadata.
+/android/               # Build artifacts generated when exporting the game to Android.
+*.tmp                   # Temporary files created by the editor during save operations.
+
+# --- C# / .NET Compilation Artifacts ---
+bin/                    # Compiled binary output (the executable .dll and .exe files).
+obj/                    # Intermediate files created by the compiler during the build process.
+.godot/mono/            # Glue code and internal assemblies required for C# to interface with Godot.
+
+# --- User & Project Configuration ---
+*.csproj.user           # Local user-specific project settings. 
