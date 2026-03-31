@@ -1,0 +1,17 @@
+# 1. Handle the "Auto" logic first
+* text=auto eol=lf
+
+# 2. Explicitly protect Godot's text-based formats
+*.gd    text eol=lf
+*.tscn  text eol=lf
+*.tres  text eol=lf
+*.project text eol=lf
+*.cfg   text eol=lf
+
+# 3. Strictly lock down binaries so Git doesn't touch them
+*.png   binary
+*.jpg   binary
+*.wav   binary
+*.ogg   binary
+*.pck   binary
+*.res   binary
