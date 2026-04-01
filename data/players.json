@@ -1,0 +1,46 @@
+{
+	"ships" : [
+		{
+			"ship_name": "Sunbreaker",
+			"aesthetic": "Heavily armored, orange/white split-wing design",
+			"special_power": "Solar Flare",
+			"ability_description": "Releases a massive, short-range radial blast that incinerates projectiles and deals heavy damage to nearby enemies.",
+			"playstyle": "Tank; rewards aggressive, close-quarters combat."
+		  },
+		  {
+			"ship_name": "Emerald Dart",
+			"aesthetic": "Sleek, aerodynamic, and deep green",
+			"special_power": "Phase Shift",
+			"ability_description": "Ship becomes semi-transparent and invulnerable for 2 seconds, leaving a trail of corrosive acid clouds.",
+			"playstyle": "High-mobility hit-and-run; ideal for bullet-hell navigation."
+		  },
+		  {
+			"ship_name": "Cobalt Striker",
+			"aesthetic": "Sharp angles, dual-cockpit look with lime accents",
+			"special_power": "Twin-Link Overload",
+			"ability_description": "Fires synchronized lightning arcs from wing-prongs that chain between multiple enemies.",
+			"playstyle": "Crowd control; effective for clearing groups of smaller minions."
+		  },
+		  {
+			"ship_name": "Ghost Trident",
+			"aesthetic": "Cold blue and silver, three-pronged skeletal frame",
+			"special_power": "Kinetic Harpoon",
+			"ability_description": "A high-velocity piercing railgun shot that pins enemies together and explodes into shards on kill.",
+			"playstyle": "High-precision sniping; slow fire rate with devastating boss damage."
+		  },
+		  {
+			"ship_name": "Phoenix Guard",
+			"aesthetic": "Compact, rounded, red and white defensive shell",
+			"special_power": "Rebound Aegis",
+			"ability_description": "Deploys a curved energy shield that reflects projectiles back at enemies with double velocity.",
+			"playstyle": "Defensive counter-play; turns enemy firepower against them."
+		  },
+		  {
+			"ship_name": "Violet Venom",
+			"aesthetic": "Magenta highlights with a needle-like nose",
+			"special_power": "Nanite Swarm",
+			"ability_description": "Releases tracking micro-drones that latch onto targets to drain health and recharge weapon energy.",
+			"playstyle": "Resource management; a 'leech' ship that thrives in sustained combat."
+		  }
+	]
+}
