@@ -1,0 +1,94 @@
+{
+	"planets" : [
+		  {
+			"name": "Methoria",
+			"origin": "Koine Greek (Methoria - borderland/frontier)",
+			"reasoning": "A more nuanced term for the 'border' between the two lethal hemispheres.",
+			"theme": "A planet that does not rotate relative to its sun. One side is a perpetual, scorched desert, while the back is a frozen wasteland. Life only exists in the 'Twilight Ring,' a narrow band of eternal sunset between the two extremes."
+		  },
+		  {
+			"name": "Selas",
+			"origin": "Koine Greek (Selas - bright beam/aurora)",
+			"reasoning": "Focuses on the specific quality of the light emitted by the flora.",
+			"theme": "A world shrouded in thick, purple flora where the sun rarely reaches the surface. Instead, the entire ecosystem communicates and navigates through pulsing neon lights emitted by fungi, oversized insects, and floating spores."
+		  },
+		  {
+			"name": "Gelas",
+			"origin": "Koine Greek (Gelas - frost/shining ice)",
+			"reasoning": "Moves away from 'Crystal' toward a word describing the sharp, gleaming nature of the spires.",
+			"theme": "A planet where the core cooled so slowly that massive quartz and amethyst structures pierced the crust. The surface is a jagged labyrinth of translucent spires that refract sunlight into lethal, concentrated laser beams."
+		  },
+		  {
+			"name": "Vythos",
+			"origin": "Koine Greek (Bythos/Vythos - the depths/bottom of the sea)",
+			"reasoning": "A less common root than 'Abyss' that still captures the crushing weight of the water.",
+			"theme": "A 'Water World' with no landmasses. The ocean is hundreds of miles deep, leading to high-pressure exotic ice at the seafloor. Giant, nomadic 'island-whales' serve as the only solid ground for surface-dwelling species."
+		  },
+		  {
+			"name": "Avrochosa",
+			"origin": "Koine Greek (Abrochos - rainless/arid)",
+			"reasoning": "Describes the absolute lack of moisture that allows the iron to remain in its dusty state.",
+			"theme": "An ancient, dying world rich in iron oxide. Constant global dust storms create a hazy red atmosphere. The 'seas' are actually basins of fine-grained metallic sand that flow like liquid during high winds."
+		  },
+		  {
+			"name": "Syneche",
+			"origin": "Koine Greek (Synecheia - continuity/unbroken sequence)",
+			"reasoning": "Refers to the endless, interconnected layers of the planet's casing.",
+			"theme": "A planet entirely encased in layers of ancient, automated machinery. Massive gears the size of continents grind beneath the surface, maintaining an artificial atmosphere for a population that has long since forgotten how the machines work."
+		  },
+		  {
+			"name": "Meteora",
+			"origin": "Koine Greek (Meteoros - raised from the earth/hovering)",
+			"reasoning": "Remains the most accurate descriptor for the magnetic sky-islands.",
+			"theme": "A gas giant with a dense, oxygen-rich upper atmosphere. Life exists on 'sky-islands'—massive chunks of porous, magnetic rock that drift within the planet's powerful magnetic field."
+		  },
+		  {
+			"name": "Akme",
+			"origin": "Koine Greek (Akme - point/edge/sharpness)",
+			"reasoning": "Focuses on the lethal, needle-like quality of the glass rain rather than the material itself.",
+			"theme": "A planet with extreme heat and an atmosphere rich in silicates. The weather consists of searing winds and rain made of molten glass that hardens into needle-sharp shards before hitting the ground."
+		  },
+		  {
+			"name": "Diko",
+			"origin": "Koine Greek (Diktyon - net/network)",
+			"reasoning": "Describes the interconnected, web-like nature of the fungal organism.",
+			"theme": "The entire planet is a single, interconnected mycelial network. The 'mountains' are massive mushrooms, and the 'soil' is a living digestive mat. Any creature walking on the surface is technically a guest—or a nutrient."
+		  },
+		  {
+			"name": "Stilbo",
+			"origin": "Koine Greek (Stilbo - to glisten/flash)",
+			"reasoning": "A verb-based name describing the blinding light reflecting off the surface.",
+			"theme": "A world covered in a naturally occurring liquid mercury or chrome-like substance. It is perfectly reflective, making navigation by sight nearly impossible as the ground reflects the stars or the sun with 100% intensity."
+		  },
+		  {
+			"name": "Aoiko",
+			"origin": "Koine Greek (Aoikos - homeless/untenanted)",
+			"reasoning": "Captures the 'ghost town' feel of the planet without using the obvious 'Void' or 'Empty'.",
+			"theme": "A 'City Planet' similar to Coruscant, but completely ghosted. Endless skyscrapers, automated transit lines, and neon signs continue to run on solar power, but the streets are empty and reclaimed by urban-adapted predators."
+		  },
+		  {
+			"name": "Zeuso",
+			"origin": "Koine Greek (Zeo - to boil/seethe)",
+			"reasoning": "Describes the physical state of the planet's surface rather than just 'fire'.",
+			"theme": "A young, violent planet where the crust is thin. Rivers of gold and basalt flow through obsidian canyons. The atmosphere is thick with soot, illuminated by the constant glow of lightning triggered by ash clouds."
+		  },
+		  {
+			"name": "Pleuro",
+			"origin": "Koine Greek (Pleura - side/rib/flank)",
+			"reasoning": "Focuses on the flat, 'sided' nature of the geometric world.",
+			"theme": "An artificial or 'engineered' planet that is a perfect cube or dodecahedron. The gravity behaves strangely at the edges, and the climate is strictly partitioned by the flat faces of the world."
+		  },
+		  {
+			"name": "Ilyo",
+			"origin": "Koine Greek (Ilyspao - to writhe/twist)",
+			"reasoning": "Describes the violent, churning motion of the atmosphere.",
+			"theme": "A world dominated by a single, planet-wide hurricane that never dissipates. Civilizations live in the 'Eye' of the storm, which migrates slowly across the surface, forcing cities to be mobile or subterranean."
+		  },
+		  {
+			"name": "Leipsano",
+			"origin": "Koine Greek (Leipsanon - remnant/relic/corpse)",
+			"reasoning": "A more poetic way to describe the 'remains' of the ancient giants.",
+			"theme": "A planet located in a nebular graveyard, littered with the husks of massive prehistoric space-faring organisms or ancient derelict starships. The 'terrain' is made of bone, hull plating, and frozen fuel."
+		  }
+	]
+}
